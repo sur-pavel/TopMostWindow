@@ -1,0 +1,9 @@
+C:\Users\диакон Павел\RiderProjects\TopMostWindow\TopMostWindow\bin\Debug\TopMostWindow.exe.config
+C:\Users\диакон Павел\RiderProjects\TopMostWindow\TopMostWindow\bin\Debug\TopMostWindow.exe
+C:\Users\диакон Павел\RiderProjects\TopMostWindow\TopMostWindow\bin\Debug\TopMostWindow.pdb
+C:\Users\диакон Павел\RiderProjects\TopMostWindow\TopMostWindow\obj\Debug\TopMostWindow.csprojResolveAssemblyReference.cache
+C:\Users\диакон Павел\RiderProjects\TopMostWindow\TopMostWindow\obj\Debug\TopMostWindow.Properties.Resources.resources
+C:\Users\диакон Павел\RiderProjects\TopMostWindow\TopMostWindow\obj\Debug\TopMostWindow.csproj.GenerateResource.Cache
+C:\Users\диакон Павел\RiderProjects\TopMostWindow\TopMostWindow\obj\Debug\TopMostWindow.csproj.CoreCompileInputs.cache
+C:\Users\диакон Павел\RiderProjects\TopMostWindow\TopMostWindow\obj\Debug\TopMostWindow.exe
+C:\Users\диакон Павел\RiderProjects\TopMostWindow\TopMostWindow\obj\Debug\TopMostWindow.pdb
